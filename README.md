@@ -15,7 +15,7 @@
 
 ## Slides
 
-[【声享】HTTP协议与服务端编程](https://ppt.baomitu.com/d/bd67c335)
+[【声享】HTTP协议与服务端编程](https://ppt.baomitu.com/d/bd67c335) (暂无法访问）
 
 ## 例子代码
 
