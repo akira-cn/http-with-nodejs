@@ -39,7 +39,7 @@ const server = net.createServer((socket) => {
 
 server.listen({
   host: '0.0.0.0',
-  port: 10080,
+  port: 8080,
   // exclusive: true,
 }, () => {
   console.log('opened server on', server.address());
